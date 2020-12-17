@@ -1,4 +1,5 @@
 # Desafios
+Desafios na solução de problemas envolvendo listas.
 
 ## Tecnologias Usadas
 Python: **3.8.2**
